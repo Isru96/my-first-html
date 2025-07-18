@@ -1,0 +1,58 @@
+
+
+1. # **Step-by-Step Instructions for Practicing HTML Code Exercise**  
+
+   In this exercise, you will practice writing commonly used HTML tags by following structured steps. Please follow each step carefully, and avoid copying and pasting the tags. You may copy long paragraphs or text content, but for the HTML structure, you should type everything yourself to enhance your learning.  
+
+   ## **Step 1: Create the Required Folders**  
+
+   1. Open File Explorer.  
+   2. Navigate to the location where you want to store your work.  
+   3. Create a new folder named **eneho-tech**.  
+   4. Inside the **eneho-tech** folder, create another folder named **phase-1**.  
+   5. Inside the **phase-1** folder, create a folder named **learn-HTML**.  
+   6. Inside the **learn-HTML** folder, create a folder named **coding-exercise**.  
+
+   ## **Step 2: Create the HTML File**  
+
+   1. Inside the **coding-exercise** folder, create a new file named:  
+      **commonly-used-HTML-tags-practice-code.html**  
+   2. Open VS Code.  
+   3. Open the **coding-exercise** folder in VS Code.  
+   4. Open the **commonly-used-HTML-tags-practice-code.html** file for editing.  
+
+   ## **Step 3: Download and Extract the Provided Code**  
+
+   1. Download the provided HTML practice code file.  
+   2. Extract the downloaded file.  
+   3. Inside the **learn-HTML** folder, create a new folder named **resources**.  
+   4. Move the extracted content into the **resources** folder.  
+
+   ## **Step 4: Copy Image and Video Files**  
+
+   1. Inside the extracted folder, you will find **images** and **videos** folders.  
+   2. Copy both the **images** and **videos** folders.  
+   3. Paste them inside the **coding-exercise** folder.  
+
+   ## **Step 5: Start Practicing the Code**  
+
+   1. Carefully go through the provided HTML file and understand the structure.  
+   2. **Do not copy and paste** the HTML tags—type them manually as you practice.  
+   3. You are allowed to copy long paragraphs or text content to save time.  
+   4. Follow the structure step by step and ensure everything works as expected.  
+   5. Save your file regularly and preview it in a web browser to see the results.  
+
+   ## **Step 6: Review and Make Improvements**  
+
+   1. Check your code for any errors or missing tags.  
+   2. Compare your work with the provided code and make corrections if necessary.  
+   3. Experiment with modifying some elements to better understand their behavior.  
+
+   By following these steps, you will build a strong foundation in HTML through hands-on practice. Happy coding! 🚀
+2. Instructions for Rebuilding the Terms Page of Lummi AI in HTML
+
+  Go to the **coding-exercise** folder created in the previous exercise.  
+1. Create a new folder called **lummi-terms-project**.  
+2. Inside **lummi-terms-project**, create a file named **terms-of-use.html**.  
+3. Rebuild the **Lummi AI Terms (https://www.lummi.ai/terms) ** page using HTML semantic tags.
+  
